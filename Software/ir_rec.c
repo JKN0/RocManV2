@@ -202,12 +202,14 @@ BYTE decode_ir_pulses( void )
                         addr = rcv_byte;
                         break;
                         
+                    /* --- Support for extended NEC protocol: omit address redundancy check 
                     case 1:
                         // 2nd byte: address inverted
                         if (addr != (BYTE)~rcv_byte)    // Casting to BYTE is needed to prevent promotion
                             return FRAME_ERROR;         // Not valid 
                         break;
-                        
+                    */
+                    
                     case 2:
                         // 3rd byte: data
                         dat = rcv_byte;
