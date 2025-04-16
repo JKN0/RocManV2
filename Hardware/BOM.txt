@@ -1,0 +1,33 @@
+Qty Value              Device             Package         Parts                Description                          
+1   STC8A8K64D4-BRKOUT STC8A8K64D4-BRKOUT DIL40           IC1                  STC8A8K64D4/QFP48 @ DIP-40 breakout  
+1                      LM389              DIL18           IC2                  Audio amp + 3 transistors            
+1   1N4001             1N4004             DO41-10         D1                   DIODE                                
+1                      LEDCHIP-LED0805    CHIP-LED0805    LED1                 LED                                  0603
+1                      ML34               ML34            CN1                  PIN HEADER FEMALE 2x17               
+1                      MA04-1             MA04-1          CN2                  PIN HEADER 1x4                       
+2                      MA03-1             MA03-1          CN3, CN4             PIN HEADER 1x3                       
+1                      PINHD-1X2          1X02            CN5                  PIN HEADER 1x2                       
+2                                                                              PIN HEADER FEMALE 1x20 (for IC1)     
+1                      W237-02P           W237-132        CN6                  SREW CLAMP                           
+2                      MA07-1             MA07-1          CN7, CN8             PIN HEADER 1x7                       
+1   100n               C-EUC0805          C0805           C1                   CAPACITOR                            
+1   22n                C-EUC0805          C0805           C2                   CAPACITOR                            
+2   470μ               CPOL-EUE5-10.5     E5-10,5         C3, C4               POLARIZED CAPACITOR                  
+1   2.2μ               CPOL-EUSMCA        SMC_A           C5                   POLARIZED CAPACITOR                  
+1   1μ                 CPOL-EUSMCA        SMC_A           C6                   POLARIZED CAPACITOR                  
+1   47n                C-EUC0805          C0805           C7                   CAPACITOR                            
+1   10μ                CPOL-EUSMCA        SMC_A           C8                   POLARIZED CAPACITOR                  use 4.7μ
+1   10k                R-EU_R0805         R0805           R1                   RESISTOR                             
+1   2.7k               R-EU_R0805         R0805           R2                   RESISTOR                             
+1   12k                R-EU_R0805         R0805           R3                   RESISTOR                             
+1   4.7k               R-EU_R0805         R0805           R4                   RESISTOR                             
+1   1k                 R-EU_R0805         R0805           R7                   RESISTOR                             
+1   2R2                R-EU_R0805         R0805           R5                   RESISTOR                             
+1   470R               R-EU_R0805         R0805           R6                   RESISTOR                             
+1   2.2k               R-EU_R0805         R0805           R8                   RESISTOR                             
+2   22k                R-EU_R0805         R0805           R9, R10              RESISTOR                             use 20k
+1   10k                PTV09A-4015F-A103  PTV09A4015FA103 VR1                  Pot 10K AUDIO 20%                    
+1   33μH               L-USL4532C         L4532M          L1                   INDUCTOR                             
+1                      Pwr supply module                                       Pwr 9...24V/5V                       
+1   TSOP34838          IR receiver                                                                                  
+1   PCB                                                                                                             
