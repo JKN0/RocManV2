@@ -18,7 +18,7 @@ Qty Value              Device             Package         Parts                D
 2   470μ               CPOL-EUE5-10.5     E5-10,5         C3, C4               POLARIZED CAPACITOR                  
 1   2.2μ               CPOL-EUSMCA        SMC_A           C5                   POLARIZED CAPACITOR                  
 1   1μ                 CPOL-EUSMCA        SMC_A           C6                   POLARIZED CAPACITOR                  
-1   47n                C-EUC0805          C0805           C7                   CAPACITOR                            
+1   47n                C-EUC0805          C0805           C7                   CAPACITOR                            0603
 1   10μ                CPOL-EUSMCA        SMC_A           C8                   POLARIZED CAPACITOR                  use 4.7μ
 1   10k                R-EU_R0805         R0805           R1                   RESISTOR                             
 1   2.7k               R-EU_R0805         R0805           R2                   RESISTOR                             
@@ -28,10 +28,11 @@ Qty Value              Device             Package         Parts                D
 1   2R2                R-EU_R0805         R0805           R5                   RESISTOR                             
 1   470R               R-EU_R0805         R0805           R6                   RESISTOR                             
 1   2.2k               R-EU_R0805         R0805           R8                   RESISTOR                             
-2   22k                R-EU_R0805         R0805           R9, R10              RESISTOR                             use 20k
+2   22k                R-EU_R0805         R0805           R9, R10              RESISTOR
 1   100R               R-EU_R0805         R0805           R11                  RESISTOR                             
 1   10k                PTV09A-4015F-A103  PTV09A4015FA103 VR1                  Pot 10K AUDIO 20%                    
-1   33μH               L-USL4532C         L4532M          L1                   INDUCTOR                             
+1   33μH               L-USL4532C         L4532M          L1                   INDUCTOR                     100μH works also
 1                      Pwr supply module                                       Pwr 9...24V/5V                       
 1   TSOP34838          IR receiver                                                                                  
+1                      18-pin IC socket                                        Socket for IC2
 1   PCB                                                                                                             
